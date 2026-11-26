@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="148" viewBox="0 0 410 148" role="img" aria-label="Azure Cove &amp; Raven — Responsive coastal resort booking layout and dark">
+  <rect x="0.5" y="0.5" width="409" height="147" rx="10" fill="#FFFFFF" stroke="#D0D7DE" />
+
+  <!-- Top Row: Number/Category + External Arrow -->
+  <g transform="translate(20, 26)">
+    <rect x="0" y="-12" width="144" height="20" rx="4" fill="#F6F8FA" />
+    <text x="8" y="2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="0.06em" fill="#57606A">04 · WEB DESIGN</text>
+    <text x="370" y="3" text-anchor="end" font-family="-apple-system, Segoe UI, sans-serif" font-size="15" font-weight="600" fill="#1F2328">↗</text>
+  </g>
+
+  <!-- Project Title -->
+  <text x="20" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="-0.01em" fill="#1F2328">Azure Cove &amp; Raven</text>
+
+  <!-- 2-line Summary -->
+  <text x="20" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#57606A">Responsive coastal resort booking layout and dark</text>
+  <text x="20" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#57606A">editorial luxury timepiece catalog case studies.</text>
+
+  <!-- Footer Stack Row -->
+  <g transform="translate(20, 128)">
+    <circle cx="5" cy="-4" r="4.5" fill="#21759B" />
+    <text x="16" y="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#57606A">WordPress · Elementor · Responsive UI</text>
+  </g>
+</svg>

@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="84" viewBox="0 0 840 84" role="img" aria-label="Moving technology stack icons carousel">
+  <defs>
+    <clipPath id="carousel-clip">
+      <rect x="1" y="1" width="838" height="82" rx="11" />
+    </clipPath>
+    <linearGradient id="edge-fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#FAFAFA" stop-opacity="1" />
+      <stop offset="6%" stop-color="#FAFAFA" stop-opacity="0" />
+      <stop offset="94%" stop-color="#FAFAFA" stop-opacity="0" />
+      <stop offset="100%" stop-color="#FAFAFA" stop-opacity="1" />
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="839" height="83" rx="12" fill="#FAFAFA" stroke="#D6D6D6" />
+
+  <g clip-path="url(#carousel-clip)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1330 0" dur="28s" repeatCount="indefinite" />
+      <g transform="translate(16, 15)">
+        <title>HTML5</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><path fill="#E34F26" d="M5 3l1.8 20.2L15 25.5l8.2-2.3L25 3H5zm15.9 6.5H10.4l.3 2.6h9.9l-.8 8-4.8 1.3-4.8-1.3-.3-3.6h2.5l.2 1.8 2.4.7 2.4-.7.3-3H9.5L8.8 6.8h12.4l-.3 2.7z"/></g>
+      </g>
+      <g transform="translate(86, 15)">
+        <title>CSS3</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><path fill="#1572B6" d="M5 3l1.8 20.2L15 25.5l8.2-2.3L25 3H5zm15.5 6.8l-.7 9.8-4.8 1.3-4.8-1.3-.3-3.1h2.5l.1 1.4 2.5.7 2.5-.7.3-3.2H9.8l-.2-2.4h8.1l.2-2.1H9l-.2-2.4h11.9l-.2 2z"/></g>
+      </g>
+      <g transform="translate(156, 15)">
+        <title>JavaScript</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><rect x="3" y="3" width="24" height="24" rx="4" fill="#F7DF1E"/><text x="15" y="20.5" text-anchor="middle" font-size="12" font-weight="800" fill="#181818" font-family="ui-monospace, monospace">JS</text></g>
+      </g>
+      <g transform="translate(226, 15)">
+        <title>TypeScript</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><rect x="3" y="3" width="24" height="24" rx="4" fill="#3178C6"/><text x="15" y="20.5" text-anchor="middle" font-size="12" font-weight="800" fill="#FFFFFF" font-family="ui-monospace, monospace">TS</text></g>
+      </g>
+      <g transform="translate(296, 15)">
+        <title>React</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="15" cy="15" r="2.6" fill="#61DAFB"/><ellipse cx="15" cy="15" rx="11.5" ry="4.5" fill="none" stroke="#61DAFB" stroke-width="1.6"/><ellipse cx="15" cy="15" rx="11.5" ry="4.5" fill="none" stroke="#61DAFB" stroke-width="1.6" transform="rotate(60 15 15)"/><ellipse cx="15" cy="15" rx="11.5" ry="4.5" fill="none" stroke="#61DAFB" stroke-width="1.6" transform="rotate(120 15 15)"/></g>
+      </g>
+      <g transform="translate(366, 15)">
+        <title>Next.js</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="15" cy="15" r="12" fill="#181818" stroke="#555" stroke-width="1"/><path d="M10.8 20.2V10l9.5 11.4M19.2 10v6.5" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round"/></g>
+      </g>
+      <g transform="translate(436, 15)">
+        <title>Tailwind CSS</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><path fill="#06B6D4" d="M15 8c-3.2 0-5.2 1.6-6 4.8 1.2-1.6 2.6-2.2 4.2-1.8.9.2 1.5.9 2.2 1.6 1.2 1.2 2.5 2.5 5.6 2.5 3.2 0 5.2-1.6 6-4.8-1.2 1.6-2.6 2.2-4.2 1.8-.9-.2-1.5-.9-2.2-1.6C19.4 9.3 18.1 8 15 8zM9 15.8c-3.2 0-5.2 1.6-6 4.8 1.2-1.6 2.6-2.2 4.2-1.8.9.2 1.5.9 2.2 1.6 1.2 1.2 2.5 2.5 5.6 2.5 3.2 0 5.2-1.6 6-4.8-1.2 1.6-2.6 2.2-4.2 1.8-.9-.2-1.5-.9-2.2-1.6-1.2-1.2-2.5-2.5-5.6-2.5z"/></g>
+      </g>
+      <g transform="translate(506, 15)">
+        <title>Bootstrap</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><rect x="3" y="3" width="24" height="24" rx="5" fill="#7952B3"/><text x="15" y="20.5" text-anchor="middle" font-size="15" font-weight="800" fill="#FFFFFF" font-family="-apple-system, Segoe UI, sans-serif">B</text></g>
+      </g>
+      <g transform="translate(576, 15)">
+        <title>PHP</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><ellipse cx="15" cy="15" rx="12.5" ry="7.8" fill="#777BB4"/><text x="15" y="18.5" text-anchor="middle" font-size="9.5" font-weight="700" fill="#FFFFFF" font-family="-apple-system, Segoe UI, sans-serif">php</text></g>
+      </g>
+      <g transform="translate(646, 15)">
+        <title>MySQL</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="15" cy="15" r="11.2" fill="none" stroke="#4479A1" stroke-width="2.1"/><text x="15" y="18.5" text-anchor="middle" font-size="8.5" font-weight="700" fill="#4479A1" font-family="ui-monospace, monospace">SQL</text></g>
+      </g>
+      <g transform="translate(716, 15)">
+        <title>Supabase</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><path fill="#3ECF8E" d="M16.8 26c-.7.9-2.2.4-2.2-.9v-8.4h8.2c1.5 0 2.2 1.8 1.2 2.9L16.8 26zM13.2 4c.7-.9 2.2-.4 2.2.9v8.4H7.2c-1.5 0-2.2-1.8-1.2-2.9L13.2 4z"/></g>
+      </g>
+      <g transform="translate(786, 15)">
+        <title>Tauri</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="11.8" cy="18.2" r="3.2" fill="#FFC131"/><circle cx="18.2" cy="11.8" r="3.2" fill="#24C8DB"/><path d="M8 11.2A8.8 8.8 0 0 1 20.8 7.6M22 18.8A8.8 8.8 0 0 1 9.2 22.4" fill="none" stroke="#8B949E" stroke-width="2" stroke-linecap="round"/></g>
+      </g>
+      <g transform="translate(856, 15)">
+        <title>Rust</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="15" cy="15" r="10.2" fill="none" stroke="#DEA584" stroke-width="2.6" stroke-dasharray="3.6 2"/><text x="15" y="19.2" text-anchor="middle" font-size="12" font-weight="800" fill="#DEA584" font-family="Georgia, serif">R</text></g>
+      </g>
+      <g transform="translate(926, 15)">
+        <title>Git</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><rect x="7.5" y="7.5" width="15" height="15" rx="2.5" fill="#F05032" transform="rotate(45 15 15)"/><circle cx="15" cy="11.8" r="1.9" fill="#FFFFFF"/><circle cx="15" cy="18.4" r="1.9" fill="#FFFFFF"/><path d="M15 11.8v6.6" stroke="#FFFFFF" stroke-width="1.8"/></g>
+      </g>
+      <g transform="translate(996, 15)">
+        <title>GitHub</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><path fill="#181717" d="M15 3C8.4 3 3 8.5 3 15.3c0 5.4 3.4 10 8.2 11.6.6.1.8-.3.8-.6v-2.2c-3.3.7-4-1.4-4-1.4-.5-1.4-1.3-1.8-1.3-1.8-1.1-.8.1-.8.1-.8 1.2.1 1.8 1.3 1.8 1.3 1.1 1.9 2.8 1.3 3.5 1 .1-.8.4-1.3.8-1.6-2.7-.3-5.5-1.4-5.5-6.1 0-1.3.5-2.4 1.2-3.3-.1-.3-.5-1.6.1-3.2 0 0 1-.3 3.3 1.3 1-.3 2-.4 3-.4s2 .1 3 .4c2.3-1.6 3.3-1.3 3.3-1.3.6 1.6.2 2.9.1 3.2.8.9 1.2 2 1.2 3.3 0 4.7-2.8 5.8-5.5 6.1.4.4.8 1.1.8 2.3v3.4c0 .3.2.7.8.6 4.8-1.6 8.2-6.2 8.2-11.6C27 8.5 21.6 3 15 3z"/></g>
+      </g>
+      <g transform="translate(1066, 15)">
+        <title>Vercel</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><polygon points="15,5 25.5,23.5 4.5,23.5" fill="#181818"/></g>
+      </g>
+      <g transform="translate(1136, 15)">
+        <title>WordPress</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="15" cy="15" r="11.2" fill="none" stroke="#21759B" stroke-width="2.2"/><text x="15" y="19.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#21759B" font-family="Georgia, serif">W</text></g>
+      </g>
+      <g transform="translate(1206, 15)">
+        <title>Figma</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="18" cy="15" r="3" fill="#1ABCFE"/><rect x="9" y="6" width="6" height="6" rx="3" fill="#F24E1E"/><rect x="15" y="6" width="6" height="6" rx="3" fill="#FF7262"/><rect x="9" y="12" width="6" height="6" rx="3" fill="#A259FF"/><rect x="9" y="18" width="6" height="6" rx="3" fill="#0ACF83"/></g>
+      </g>
+      <g transform="translate(1276, 15)">
+        <title>Playwright</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><path fill="#2EAD33" d="M6.5 8.5c3 0 5.5 1.5 5.5 4.5s-2.5 6.8-5.5 6.8S2 16 2 13s1.5-4.5 4.5-4.5zm15.5-2c3.3 0 6 2 6 5.6s-2.7 7.8-6 7.8-6-4.2-6-7.8 2.7-5.6 6-5.6z"/></g>
+      </g>
+      <g transform="translate(1346, 15)">
+        <title>HTML5</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><path fill="#E34F26" d="M5 3l1.8 20.2L15 25.5l8.2-2.3L25 3H5zm15.9 6.5H10.4l.3 2.6h9.9l-.8 8-4.8 1.3-4.8-1.3-.3-3.6h2.5l.2 1.8 2.4.7 2.4-.7.3-3H9.5L8.8 6.8h12.4l-.3 2.7z"/></g>
+      </g>
+      <g transform="translate(1416, 15)">
+        <title>CSS3</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><path fill="#1572B6" d="M5 3l1.8 20.2L15 25.5l8.2-2.3L25 3H5zm15.5 6.8l-.7 9.8-4.8 1.3-4.8-1.3-.3-3.1h2.5l.1 1.4 2.5.7 2.5-.7.3-3.2H9.8l-.2-2.4h8.1l.2-2.1H9l-.2-2.4h11.9l-.2 2z"/></g>
+      </g>
+      <g transform="translate(1486, 15)">
+        <title>JavaScript</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><rect x="3" y="3" width="24" height="24" rx="4" fill="#F7DF1E"/><text x="15" y="20.5" text-anchor="middle" font-size="12" font-weight="800" fill="#181818" font-family="ui-monospace, monospace">JS</text></g>
+      </g>
+      <g transform="translate(1556, 15)">
+        <title>TypeScript</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><rect x="3" y="3" width="24" height="24" rx="4" fill="#3178C6"/><text x="15" y="20.5" text-anchor="middle" font-size="12" font-weight="800" fill="#FFFFFF" font-family="ui-monospace, monospace">TS</text></g>
+      </g>
+      <g transform="translate(1626, 15)">
+        <title>React</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="15" cy="15" r="2.6" fill="#61DAFB"/><ellipse cx="15" cy="15" rx="11.5" ry="4.5" fill="none" stroke="#61DAFB" stroke-width="1.6"/><ellipse cx="15" cy="15" rx="11.5" ry="4.5" fill="none" stroke="#61DAFB" stroke-width="1.6" transform="rotate(60 15 15)"/><ellipse cx="15" cy="15" rx="11.5" ry="4.5" fill="none" stroke="#61DAFB" stroke-width="1.6" transform="rotate(120 15 15)"/></g>
+      </g>
+      <g transform="translate(1696, 15)">
+        <title>Next.js</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="15" cy="15" r="12" fill="#181818" stroke="#555" stroke-width="1"/><path d="M10.8 20.2V10l9.5 11.4M19.2 10v6.5" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round"/></g>
+      </g>
+      <g transform="translate(1766, 15)">
+        <title>Tailwind CSS</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><path fill="#06B6D4" d="M15 8c-3.2 0-5.2 1.6-6 4.8 1.2-1.6 2.6-2.2 4.2-1.8.9.2 1.5.9 2.2 1.6 1.2 1.2 2.5 2.5 5.6 2.5 3.2 0 5.2-1.6 6-4.8-1.2 1.6-2.6 2.2-4.2 1.8-.9-.2-1.5-.9-2.2-1.6C19.4 9.3 18.1 8 15 8zM9 15.8c-3.2 0-5.2 1.6-6 4.8 1.2-1.6 2.6-2.2 4.2-1.8.9.2 1.5.9 2.2 1.6 1.2 1.2 2.5 2.5 5.6 2.5 3.2 0 5.2-1.6 6-4.8-1.2 1.6-2.6 2.2-4.2 1.8-.9-.2-1.5-.9-2.2-1.6-1.2-1.2-2.5-2.5-5.6-2.5z"/></g>
+      </g>
+      <g transform="translate(1836, 15)">
+        <title>Bootstrap</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><rect x="3" y="3" width="24" height="24" rx="5" fill="#7952B3"/><text x="15" y="20.5" text-anchor="middle" font-size="15" font-weight="800" fill="#FFFFFF" font-family="-apple-system, Segoe UI, sans-serif">B</text></g>
+      </g>
+      <g transform="translate(1906, 15)">
+        <title>PHP</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><ellipse cx="15" cy="15" rx="12.5" ry="7.8" fill="#777BB4"/><text x="15" y="18.5" text-anchor="middle" font-size="9.5" font-weight="700" fill="#FFFFFF" font-family="-apple-system, Segoe UI, sans-serif">php</text></g>
+      </g>
+      <g transform="translate(1976, 15)">
+        <title>MySQL</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="15" cy="15" r="11.2" fill="none" stroke="#4479A1" stroke-width="2.1"/><text x="15" y="18.5" text-anchor="middle" font-size="8.5" font-weight="700" fill="#4479A1" font-family="ui-monospace, monospace">SQL</text></g>
+      </g>
+      <g transform="translate(2046, 15)">
+        <title>Supabase</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><path fill="#3ECF8E" d="M16.8 26c-.7.9-2.2.4-2.2-.9v-8.4h8.2c1.5 0 2.2 1.8 1.2 2.9L16.8 26zM13.2 4c.7-.9 2.2-.4 2.2.9v8.4H7.2c-1.5 0-2.2-1.8-1.2-2.9L13.2 4z"/></g>
+      </g>
+      <g transform="translate(2116, 15)">
+        <title>Tauri</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="11.8" cy="18.2" r="3.2" fill="#FFC131"/><circle cx="18.2" cy="11.8" r="3.2" fill="#24C8DB"/><path d="M8 11.2A8.8 8.8 0 0 1 20.8 7.6M22 18.8A8.8 8.8 0 0 1 9.2 22.4" fill="none" stroke="#8B949E" stroke-width="2" stroke-linecap="round"/></g>
+      </g>
+      <g transform="translate(2186, 15)">
+        <title>Rust</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="15" cy="15" r="10.2" fill="none" stroke="#DEA584" stroke-width="2.6" stroke-dasharray="3.6 2"/><text x="15" y="19.2" text-anchor="middle" font-size="12" font-weight="800" fill="#DEA584" font-family="Georgia, serif">R</text></g>
+      </g>
+      <g transform="translate(2256, 15)">
+        <title>Git</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><rect x="7.5" y="7.5" width="15" height="15" rx="2.5" fill="#F05032" transform="rotate(45 15 15)"/><circle cx="15" cy="11.8" r="1.9" fill="#FFFFFF"/><circle cx="15" cy="18.4" r="1.9" fill="#FFFFFF"/><path d="M15 11.8v6.6" stroke="#FFFFFF" stroke-width="1.8"/></g>
+      </g>
+      <g transform="translate(2326, 15)">
+        <title>GitHub</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><path fill="#181717" d="M15 3C8.4 3 3 8.5 3 15.3c0 5.4 3.4 10 8.2 11.6.6.1.8-.3.8-.6v-2.2c-3.3.7-4-1.4-4-1.4-.5-1.4-1.3-1.8-1.3-1.8-1.1-.8.1-.8.1-.8 1.2.1 1.8 1.3 1.8 1.3 1.1 1.9 2.8 1.3 3.5 1 .1-.8.4-1.3.8-1.6-2.7-.3-5.5-1.4-5.5-6.1 0-1.3.5-2.4 1.2-3.3-.1-.3-.5-1.6.1-3.2 0 0 1-.3 3.3 1.3 1-.3 2-.4 3-.4s2 .1 3 .4c2.3-1.6 3.3-1.3 3.3-1.3.6 1.6.2 2.9.1 3.2.8.9 1.2 2 1.2 3.3 0 4.7-2.8 5.8-5.5 6.1.4.4.8 1.1.8 2.3v3.4c0 .3.2.7.8.6 4.8-1.6 8.2-6.2 8.2-11.6C27 8.5 21.6 3 15 3z"/></g>
+      </g>
+      <g transform="translate(2396, 15)">
+        <title>Vercel</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><polygon points="15,5 25.5,23.5 4.5,23.5" fill="#181818"/></g>
+      </g>
+      <g transform="translate(2466, 15)">
+        <title>WordPress</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="15" cy="15" r="11.2" fill="none" stroke="#21759B" stroke-width="2.2"/><text x="15" y="19.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#21759B" font-family="Georgia, serif">W</text></g>
+      </g>
+      <g transform="translate(2536, 15)">
+        <title>Figma</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><circle cx="18" cy="15" r="3" fill="#1ABCFE"/><rect x="9" y="6" width="6" height="6" rx="3" fill="#F24E1E"/><rect x="15" y="6" width="6" height="6" rx="3" fill="#FF7262"/><rect x="9" y="12" width="6" height="6" rx="3" fill="#A259FF"/><rect x="9" y="18" width="6" height="6" rx="3" fill="#0ACF83"/></g>
+      </g>
+      <g transform="translate(2606, 15)">
+        <title>Playwright</title>
+        <rect width="54" height="54" rx="10" fill="#FFFFFF" stroke="#DFDFDF" />
+        <g transform="translate(12, 12)"><path fill="#2EAD33" d="M6.5 8.5c3 0 5.5 1.5 5.5 4.5s-2.5 6.8-5.5 6.8S2 16 2 13s1.5-4.5 4.5-4.5zm15.5-2c3.3 0 6 2 6 5.6s-2.7 7.8-6 7.8-6-4.2-6-7.8 2.7-5.6 6-5.6z"/></g>
+      </g>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="838" height="82" rx="11" fill="url(#edge-fade)" pointer-events="none" />
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="218" viewBox="0 0 840 218" role="img" aria-label="Jhon Reil A. Penera — IT Student and Digital Creator">
+  <defs>
+    <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#262C36" />
+    </pattern>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="839" height="217" rx="12" fill="#111317" stroke="#2D333B" />
+  <rect x="1" y="1" width="838" height="216" rx="12" fill="url(#dots)" opacity="0.65" />
+
+  <!-- Top Eyebrow & Live Status Pill -->
+  <g transform="translate(36, 30)">
+    <rect x="0" y="0" width="310" height="26" rx="13" fill="#1B2028" stroke="#30363D" />
+    <circle cx="15" cy="13" r="4" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite" />
+    </circle>
+    <text x="27" y="17" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.06em" fill="#F2F4F8">OPEN TO OJT / INTERNSHIP · CAVITE, PH</text>
+
+    <text x="768" y="17" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.08em" fill="#9BA3AF">@NOTGONNALAY</text>
+  </g>
+
+  <!-- Main Editorial Display Name & Tagline -->
+  <g transform="translate(36, 102)">
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.03em" fill="#F2F4F8">Jhon Reil A. Penera</text>
+    <text x="0" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" fill="#9BA3AF">IT Student &amp; Digital Creator — Turning ideas into thoughtful digital solutions.</text>
+  </g>
+
+  <!-- Architectural Divider & Working Principles -->
+  <line x1="36" y1="162" x2="804" y2="162" stroke="#262B33" stroke-width="1" />
+  <g transform="translate(36, 188)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#9BA3AF">
+    <text x="0" y="0"><tspan fill="#F2F4F8" font-weight="600">01</tspan> Stay curious.</text>
+    <text x="165" y="0"><tspan fill="#F2F4F8" font-weight="600">02</tspan> Make it useful.</text>
+    <text x="342" y="0"><tspan fill="#F2F4F8" font-weight="600">03</tspan> Keep refining.</text>
+    <text x="768" y="0" text-anchor="end" fill="#F2F4F8" font-weight="500">jhonreilpenera.vercel.app ↗</text>
+  </g>
+</svg>
