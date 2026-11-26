@@ -124,12 +124,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=notgonnalay&show_icons=true&hide_border=true&bg_color=111317&title_color=F2F4F8&text_color=9BA3AF&icon_color=F2F4F8&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=notgonnalay&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=181818&text_color=57606A&icon_color=181818&rank_icon=github" alt="GitHub activity statistics for notgonnalay" width="49%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=notgonnalay&hide_border=true&background=111317&ring=F2F4F8&fire=F2F4F8&currStreakLabel=F2F4F8&currStreakNum=F2F4F8&sideNums=F2F4F8&sideLabels=9BA3AF&dates=6E7681" />
-  <img src="https://streak-stats.demolab.com?user=notgonnalay&hide_border=true&background=FAFAFA&ring=181818&fire=181818&currStreakLabel=181818&currStreakNum=181818&sideNums=181818&sideLabels=57606A&dates=6E7681" alt="GitHub contribution streak for notgonnalay" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=notgonnalay&disable_animations=true&border_radius=10&background=111317&border=2D333B&stroke=262B33&ring=F2F4F8&fire=10B981&currStreakLabel=F2F4F8&currStreakNum=F2F4F8&sideNums=F2F4F8&sideLabels=9BA3AF&dates=6E7681" />
+  <img src="https://streak-stats.demolab.com?user=notgonnalay&disable_animations=true&border_radius=10&background=FAFAFA&border=D6D6D6&stroke=E4E4E4&ring=181818&fire=10B981&currStreakLabel=181818&currStreakNum=181818&sideNums=181818&sideLabels=57606A&dates=6E7681" alt="GitHub contribution streak for notgonnalay" width="495" />
 </picture>
 
 </div>
